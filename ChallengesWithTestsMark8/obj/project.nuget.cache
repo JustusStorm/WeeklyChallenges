@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5M9+4xuoRJREfscAUiwLLoHIvOX7pUfBYgVJ2CLaerDI4xFbkS7B4DE+gTws8I8qswMZ6WPkFrFVs43qPi6fQ==",
+  "dgSpecHash": "LUmnG4qvvUT3jVTK2vgmubUFInfY/nO/ecstsKYxHsoonq9IawUrtZZmOd1HctglFm8blAEM8nC3oiHKw04nuQ==",
   "success": true,
-  "projectFilePath": "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "projectFilePath": "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justu\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\justu\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

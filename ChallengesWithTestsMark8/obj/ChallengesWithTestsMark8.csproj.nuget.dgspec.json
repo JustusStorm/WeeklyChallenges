@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\justu\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Repositories\\TrueCoders\\NewWeeklyChallanges\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "D:\\Github_Repositories\\TrueCoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
