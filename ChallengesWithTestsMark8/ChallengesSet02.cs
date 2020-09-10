@@ -7,7 +7,18 @@ namespace ChallengesWithTestsMark8
     {
         public bool CharacterIsALetter(char c)
         {
-            throw new NotImplementedException();
+            string nonLetters = "0123456789`~!@#$%^&*()-_=+[{]}\\|;:'\",<.>/?\u2222";
+            bool isACharacter = false;
+
+            foreach (char nonCharacter in nonLetters)
+            {
+                if (c != nonCharacter)
+                {
+                    isACharacter = true;
+                }
+            }
+
+            return isACharacter;
         }
 
         public bool CountOfElementsIsEven(string[] vals)
