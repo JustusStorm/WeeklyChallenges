@@ -22,12 +22,12 @@ namespace ChallengesWithTestsMark8
 
         public char GetFirstLetterOfString(string val)
         {
-            throw new NotImplementedException();
+            return val[0];
         }
 
         public char GetLastLetterOfString(string val)
         {
-            throw new NotImplementedException();
+            return val[val.Length - 1];
         }
 
         public decimal Divide(decimal dividend, decimal divisor)
@@ -37,17 +37,26 @@ namespace ChallengesWithTestsMark8
 
         public int LastMinusFirst(int[] nums)
         {
-            throw new NotImplementedException();
+            return nums[nums.Length - 1] - nums[0]; 
         }
 
         public int[] GetOddsBelow100()
         {
-            throw new NotImplementedException();
+            var intList = new List<int>();
+            for (int i = 1; i < 100; i += 2 )
+            {
+                intList.Add(i);
+            }
+            return intList.ToArray();
         }
 
         public void ChangeAllElementsToUppercase(string[] words)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < words.Length - 1; i++)
+            {
+                words[i] = words[i].ToUpper();
+            }
+            
         }
     }
 }
